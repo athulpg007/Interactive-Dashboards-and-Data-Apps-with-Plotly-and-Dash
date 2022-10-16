@@ -396,4 +396,4 @@ def launch_mass_capability_chart(start_date, end_date, paths, max_C3, max_tof, m
 	
 
 if __name__ == '__main__':
-	app.run_server(debug=True)
+	app.run_server(debug=False)
